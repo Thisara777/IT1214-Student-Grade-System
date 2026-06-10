@@ -12,12 +12,6 @@ The system allows to:
 * Search students by Student ID
 * Calculate average marks
 
-## Technologies Used
-
-* Java
-* OOP Concepts
-* GitHub Version Control
-
 ## How to Run
 
 1. Compile the Java files:
