@@ -24,3 +24,52 @@ java StudentGradeManagementSystem
 
 3. Use the menu to manage student records.
 
+4. ## Sample Run
+
+===== Student Grade Management System =====
+
+1. Add Student
+2. Display Students
+3. Search Student
+4. Average Marks
+5. Exit
+
+Enter Choice: 1
+
+Student ID: S01
+
+Student Name: Thisara
+
+Marks: 80
+
+Student Added!
+
+Enter Choice: 1
+
+Student ID: S02
+
+Student Name: Omindu
+
+Marks: 90
+
+Student Added!
+
+Enter Choice: 2
+
+ID: S01
+
+Name: Thisara
+
+Marks: 80.0
+
+ID: S02
+
+Name: Omindu
+
+Marks: 90.0
+
+Enter Choice: 4
+
+Average Marks = 85.0
+
+
